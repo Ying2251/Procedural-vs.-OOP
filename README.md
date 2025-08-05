@@ -1,1 +1,0 @@
-# Procedural vs OOP
