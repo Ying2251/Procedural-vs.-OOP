@@ -9,7 +9,7 @@ def add_product(product_list, product_name, product_quantity):
 def show_product(product_list):
     for key in product_list.keys():
         print(key + " : " + str(product_list[key]))
-
+#แสดงผล
 add_product(product_list, "Shampoo", 10)
 add_product(product_list, "Hair conditioner", 20)
 add_product(product_list, "Shampoo", 10)
